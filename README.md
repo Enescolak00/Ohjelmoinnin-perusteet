@@ -1,2 +1,1 @@
-# Ohjelmoinnin-perusteet
-Oppia ohjelmointi. 
+
